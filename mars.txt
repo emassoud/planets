@@ -1,4 +1,4 @@
-XXXThis is a new text file.
+This is a new text file.
 Cold and dry
 This is a new line added.
 Humidity is low.
